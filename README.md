@@ -65,12 +65,4 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
 
 ## Legacy
 
-Packages not listed above are no longer developed. They stay on Packagist, so existing projects keep installing them, but they get no fixes. Where one has a successor, use it:
-
-- `solophp/framework` → `solophp/skeleton`
-- `solophp/request-handler` → `solophp/input`
-- `solophp/base-repository` → `solophp/repository`
-- `solophp/task-queue` → `solophp/job-queue`
-- `solophp/database`, `solophp/query-builder` → Doctrine DBAL, with `solophp/repository`
-
-Configs, Settings, Storage, Paginator, Translate, Formatter, Flash-Messages, Image-uploader and Utilities have no successor.
+Archived repositories are no longer maintained; their replacements are listed under [Legacy](https://solophp.github.io/packages.html#legacy).
