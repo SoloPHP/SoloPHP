@@ -50,7 +50,7 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
 
 | Package | What it does | Docs | Packagist |
 |---|---|---|---|
-| [solophp/logger](https://github.com/SoloPHP/Logger) | PSR-3 file logger with rotation and line, JSON or logfmt output | [README](https://github.com/SoloPHP/Logger#readme) | [![solophp/logger](https://img.shields.io/packagist/v/solophp/logger?label=)](https://packagist.org/packages/solophp/logger) |
+| [solophp/logger](https://github.com/SoloPHP/Logger) | PSR-3 logger for files shared across processes and for standard error, in line, JSON or logfmt | [Docs](https://solophp.github.io/Logger/) | [![solophp/logger](https://img.shields.io/packagist/v/solophp/logger?label=)](https://packagist.org/packages/solophp/logger) |
 | [solophp/dotenv](https://github.com/SoloPHP/Dotenv) | Zero-dependency `.env` loader with typed accessors | [README](https://github.com/SoloPHP/Dotenv#readme) | [![solophp/dotenv](https://img.shields.io/packagist/v/solophp/dotenv?label=)](https://packagist.org/packages/solophp/dotenv) |
 | [solophp/event-dispatcher](https://github.com/SoloPHP/Event-Dispatcher) | PSR-14 event dispatcher with priorities, subscribers and stoppable events | [README](https://github.com/SoloPHP/Event-Dispatcher#readme) | [![solophp/event-dispatcher](https://img.shields.io/packagist/v/solophp/event-dispatcher?label=)](https://packagist.org/packages/solophp/event-dispatcher) |
 | [solophp/job-queue](https://github.com/SoloPHP/Job-Queue) | Database-backed job queue: atomic claim, retries with backoff, a long-running worker | [README](https://github.com/SoloPHP/Job-Queue#readme) | [![solophp/job-queue](https://img.shields.io/packagist/v/solophp/job-queue?label=)](https://packagist.org/packages/solophp/job-queue) |
