@@ -43,7 +43,7 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
 
 | Package | What it does | Docs | Packagist |
 |---|---|---|---|
-| [solophp/repository](https://github.com/SoloPHP/Repository) | Typed table repositories over Doctrine DBAL, with translations and batch-loaded relations | [Docs](https://solophp.github.io/Repository/) | [![solophp/repository](https://img.shields.io/packagist/v/solophp/repository?label=)](https://packagist.org/packages/solophp/repository) |
+| [solophp/repository](https://github.com/SoloPHP/Repository) | Typed table repositories over Doctrine DBAL, with translations, batch-loaded relations, stable pages and transactions | [Docs](https://solophp.github.io/Repository/) | [![solophp/repository](https://img.shields.io/packagist/v/solophp/repository?label=)](https://packagist.org/packages/solophp/repository) |
 | [solophp/cache](https://github.com/SoloPHP/Cache) | PSR-16 cache with file and Redis adapters | [README](https://github.com/SoloPHP/Cache#readme) | [![solophp/cache](https://img.shields.io/packagist/v/solophp/cache?label=)](https://packagist.org/packages/solophp/cache) |
 
 ### Infrastructure
