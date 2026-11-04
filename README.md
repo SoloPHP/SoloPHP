@@ -56,7 +56,6 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
 | [solophp/job-queue](https://github.com/SoloPHP/Job-Queue) | Database-backed job queue: leased claims with ownership tokens, per-job retry policies, a long-running worker | [Docs](https://solophp.github.io/Job-Queue/) | [![solophp/job-queue](https://img.shields.io/packagist/v/solophp/job-queue?label=)](https://packagist.org/packages/solophp/job-queue) |
 | [solophp/rate-limiter](https://github.com/SoloPHP/Rate-Limiter) | Atomic per-key rate limits: fixed or renewable windows in Redis, with an in-memory twin for tests | [README](https://github.com/SoloPHP/Rate-Limiter#readme) | [![solophp/rate-limiter](https://img.shields.io/packagist/v/solophp/rate-limiter?label=)](https://packagist.org/packages/solophp/rate-limiter) |
 | [solophp/http-client](https://github.com/SoloPHP/HTTP-Client) | Immutable PSR-18 client on Guzzle: safe retries, credentials bound to their origin and redacted logs | [Docs](https://solophp.github.io/HTTP-Client/) | [![solophp/http-client](https://img.shields.io/packagist/v/solophp/http-client?label=)](https://packagist.org/packages/solophp/http-client) |
-| [solophp/session](https://github.com/SoloPHP/Session) | Secure session handling: idle timeout, fixation protection, integrity checks | [README](https://github.com/SoloPHP/Session#readme) | [![solophp/session](https://img.shields.io/packagist/v/solophp/session?label=)](https://packagist.org/packages/solophp/session) |
 
 ### Frontend
 
