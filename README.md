@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://solophp.github.io/">
-    <img src="https://solophp.github.io/logo.svg" width="96" height="96" alt="SoloPHP logo">
+    <img src="https://avatars.githubusercontent.com/u/175482616?v=4" width="96" height="96" alt="SoloPHP logo">
   </a>
 </p>
 
