@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://solophp.github.io/">
-    <img src="https://avatars.githubusercontent.com/u/175482616?v=4" width="96" height="96" alt="SoloPHP logo">
+    <img src="https://avatars.githubusercontent.com/u/175482616?v=4" width="144" height="144" alt="SoloPHP logo">
   </a>
 </p>
 
@@ -38,13 +38,12 @@ Create the project with `composer create-project solophp/inertia-svelte-skeleton
 
 Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
 
-### HTTP kernel
-
 <table>
   <thead>
     <tr><th scope="col">Package</th><th scope="col">What it does</th><th scope="col">Docs</th><th scope="col">Latest version</th></tr>
   </thead>
   <tbody>
+    <tr><th colspan="4" scope="rowgroup" align="left"><a name="http-kernel"></a>HTTP kernel</th></tr>
     <tr>
       <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Application">solophp/application</a></td>
       <td>PSR-15 kernel: service providers, a middleware pipeline, routing and a route cache</td>
@@ -76,15 +75,8 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://packagist.org/packages/solophp/contracts"><img src="https://img.shields.io/packagist/v/solophp/contracts?label=" alt="Latest version of solophp/contracts"></a></td>
     </tr>
   </tbody>
-</table>
-
-### Input
-
-<table>
-  <thead>
-    <tr><th scope="col">Package</th><th scope="col">What it does</th><th scope="col">Docs</th><th scope="col">Latest version</th></tr>
-  </thead>
   <tbody>
+    <tr><th colspan="4" scope="rowgroup" align="left"><a name="input"></a>Input</th></tr>
     <tr>
       <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Input">solophp/input</a></td>
       <td>Typed, immutable request DTOs, validated, cast and processed by attributes</td>
@@ -98,15 +90,8 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://packagist.org/packages/solophp/validator"><img src="https://img.shields.io/packagist/v/solophp/validator?label=" alt="Latest version of solophp/validator"></a></td>
     </tr>
   </tbody>
-</table>
-
-### Data
-
-<table>
-  <thead>
-    <tr><th scope="col">Package</th><th scope="col">What it does</th><th scope="col">Docs</th><th scope="col">Latest version</th></tr>
-  </thead>
   <tbody>
+    <tr><th colspan="4" scope="rowgroup" align="left"><a name="data"></a>Data</th></tr>
     <tr>
       <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Repository">solophp/repository</a></td>
       <td>Typed table repositories over Doctrine DBAL, with translations, batch-loaded relations, stable pages and transactions</td>
@@ -120,15 +105,8 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://packagist.org/packages/solophp/cache"><img src="https://img.shields.io/packagist/v/solophp/cache?label=" alt="Latest version of solophp/cache"></a></td>
     </tr>
   </tbody>
-</table>
-
-### Infrastructure
-
-<table>
-  <thead>
-    <tr><th scope="col">Package</th><th scope="col">What it does</th><th scope="col">Docs</th><th scope="col">Latest version</th></tr>
-  </thead>
   <tbody>
+    <tr><th colspan="4" scope="rowgroup" align="left"><a name="infrastructure"></a>Infrastructure</th></tr>
     <tr>
       <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Logger">solophp/logger</a></td>
       <td>PSR-3 logger for files shared across processes and for standard error, in line, JSON or logfmt</td>
@@ -172,15 +150,8 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://packagist.org/packages/solophp/http-client"><img src="https://img.shields.io/packagist/v/solophp/http-client?label=" alt="Latest version of solophp/http-client"></a></td>
     </tr>
   </tbody>
-</table>
-
-### Frontend
-
-<table>
-  <thead>
-    <tr><th scope="col">Package</th><th scope="col">What it does</th><th scope="col">Docs</th><th scope="col">Latest version</th></tr>
-  </thead>
   <tbody>
+    <tr><th colspan="4" scope="rowgroup" align="left"><a name="frontend"></a>Frontend</th></tr>
     <tr>
       <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Inertia">solophp/inertia</a></td>
       <td>Inertia.js 3 server adapter for PSR-7 and PSR-15: partial reloads, deferred props, flash data, SSR, Precognition</td>
