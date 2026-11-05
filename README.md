@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://solophp.github.io/">
-    <img src="https://avatars.githubusercontent.com/u/175482616?v=4" width="144" height="144" alt="SoloPHP logo">
-  </a>
-</p>
-
 # SoloPHP
 
 **Small, independent PSR packages for PHP. Use one, or all of them together.**
