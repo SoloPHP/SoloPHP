@@ -152,6 +152,12 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://solophp.github.io/Inertia/">Docs</a></td>
       <td><a href="https://packagist.org/packages/solophp/inertia"><img src="https://img.shields.io/packagist/v/solophp/inertia?label=" alt="Latest version of solophp/inertia"></a></td>
     </tr>
+    <tr>
+      <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Vite">solophp/vite</a></td>
+      <td>Vite without a framework: the tags that load entries from the dev server or the build manifest, an asset version and a Twig function</td>
+      <td><a href="https://github.com/SoloPHP/Vite#readme">README</a></td>
+      <td><a href="https://packagist.org/packages/solophp/vite"><img src="https://img.shields.io/packagist/v/solophp/vite?label=" alt="Latest version of solophp/vite"></a></td>
+    </tr>
   </tbody>
 </table>
 
