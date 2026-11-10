@@ -143,6 +143,12 @@ Every package runs on PHP 8.3 or later, except Container, which needs 8.4.
       <td><a href="https://solophp.github.io/HTTP-Client/">Docs</a></td>
       <td><a href="https://packagist.org/packages/solophp/http-client"><img src="https://img.shields.io/packagist/v/solophp/http-client?label=" alt="Latest version of solophp/http-client"></a></td>
     </tr>
+    <tr>
+      <td nowrap="nowrap"><a href="https://github.com/SoloPHP/Image">solophp/image</a></td>
+      <td>Immutable GD images: EXIF orientation, bounded resizing, JPEG, PNG and WebP encoding, and smaller-only optimization</td>
+      <td><a href="https://solophp.github.io/Image/">Docs</a></td>
+      <td><a href="https://packagist.org/packages/solophp/image"><img src="https://img.shields.io/packagist/v/solophp/image?label=" alt="Latest version of solophp/image"></a></td>
+    </tr>
   </tbody>
   <tbody>
     <tr><th colspan="4" scope="rowgroup" align="left"><a name="frontend"></a>Frontend</th></tr>
